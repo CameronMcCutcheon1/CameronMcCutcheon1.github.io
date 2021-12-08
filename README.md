@@ -1,2 +1,1 @@
-# CameronMcCutcheon1.github.io
-Portfolio
+# Assignment 2
